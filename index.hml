@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Jakub Widera">
+    <title>10 zachowań kulturalnych w naszej klasie</title>
+    <style>
+        body{
+            background-color: rgb(181, 218, 205);
+        }
+        h1 {
+            text-align: center;
+            font-size: 55px;
+    }
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin: auto;
+        background-color: white;
+        border-radius: 20px;
+        padding: 10px;
+        box-shadow: rgba(255, 119, 187, 0.56) 0px 22px 70px 4px;
+        width: 250px; 
+        text-align: center;
+    }
+    </style>
+</head>
+<body>
+ <h1>Zachowania kulturalne w klasie 3J:</h1>
+ <div class="container" >
+ <ol style="display: inline-block;text-align: left;">
+    <li>Jeteśmy mili</li>
+    <li>Nie przeklinamy</li>
+    <li>Nie palimy</li>
+    <li>Nie pijemy</li>
+    <li>Pomagamy sobie nawzajem</li>
+    <li>Nie opuszczamy lekcji</li>
+    <li>Jesteśmy kulturalni</li>
+    <li>Uzywamy zwrotów grzecznościowych</li>
+    <li>Odnosimy się z szacunkiem do nauczycieli</li>
+    <li>Lubimy się wszycy nawzajem</li>
+ </ol>
+ 
+</div>
+</body>
+</html>
